@@ -1,0 +1,36 @@
+body {
+    background: #ffffff;
+    height: 100vh;
+    max-width: 1440px;
+    min-width: 375px;
+  }
+  .outer-body {
+    background: #d5e1ef;
+    height: 80%;
+    margin: 100px auto;
+    display: flex;
+  }
+  .qrcode-box {
+    background: #fff;
+    border-radius: 10px;
+    width: 220px;
+    height: 370px;
+    margin: auto;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 10px 100px 0px;
+  }
+  img {
+    margin: 10px 10px 0 10px;
+    border-radius: 10px;
+    width: 200px;
+  }
+  .body-text {
+    color: gray;
+    text-align: center;
+    font-size: 13px;
+    }
+  .header {
+    text-align: center;
+  }
+  .middlespace {
+      margin: 0;
+  }
